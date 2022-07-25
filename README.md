@@ -38,7 +38,7 @@ Segmentation masks are present in the JSON following the COCO format.
 
 
 ## License
-Please notice that this data set is made available for academic research purposes only. The usage of Google Imagery must respect the Google Earth terms and conditions [https://about.google/brand-resource-center/products-and-services/geo-guidelines/].
+Creative Commons CC BY-NC licensing scheme (see LICENSE). The usage of Google Imagery must respect the Google Earth terms and conditions [https://about.google/brand-resource-center/products-and-services/geo-guidelines/].
 
 ## Cite us
 ```
